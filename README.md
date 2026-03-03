@@ -5,7 +5,7 @@ This project builds a fraud detection system using financial transaction data.
 The model handles highly imbalanced data and predicts fraudulent transactions.
 
 Dataset
-Kaggle PaySim Fraud Dataset
+Kaggle Dataset: https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
 (Class imbalance: ~0.1% fraud cases)
 
 Techniques Used
@@ -31,4 +31,3 @@ Scikit-learn
 Pandas
 Streamlit
 
-Kaggle Dataset: https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
